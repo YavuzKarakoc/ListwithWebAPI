@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Yavuz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Yavuz\\.nuget\\packages"
+    ]
+  }
+}
